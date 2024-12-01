@@ -1,0 +1,53 @@
+.all{
+display:flex;
+padding:50px;
+}
+.button{
+    margin:0 50px;
+    width:200px;
+    height:200px;
+    display:flex;
+}
+#red{
+  
+   
+    background-color:red;
+    border-color: black;
+    border-style:double;
+    border-radius: 50%;
+
+}
+#palevioletred{
+
+    background-color:palevioletred;
+    border-color: black;
+    border-style:double;
+    border-radius: 50%;
+}
+#blue{
+  
+    background-color:blue;
+    border-color: black;
+    border-style:double;
+    border-radius: 50%;
+}
+#green{
+    
+    background-color:green;
+    border-color: black;
+    border-style:double;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 200%;
+}
+span{
+    color:crimson;
+    font-size: larger;
+    font-family: cursive;
+    font-style: italic;
+}
